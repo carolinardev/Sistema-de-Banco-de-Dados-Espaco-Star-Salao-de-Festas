@@ -8,11 +8,11 @@ Sistema de gerenciamento de eventos do Espaço Star, com controle de:
 
 Clientes
 
-Funcionários
+Funcionarios
 
 Fornecedores
 
-Salões
+Saloes
 
 Pacotes
 
@@ -20,9 +20,8 @@ Reservas
 
 Pagamentos
 
-Serviços contratados
+Servicos contratados
 
-DER revisado aplicando 1FN, 2FN e 3FN.
 
 👤 Autora
 
